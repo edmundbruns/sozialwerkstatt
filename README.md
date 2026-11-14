@@ -8,7 +8,7 @@ Zu jeder Einheit erstellt die Anwendung einen Durchführungsplan, ein Arbeitsbla
 ## Inhalt
 
 - `index.html`: die komplette Anwendung in einer Datei, ohne Anmeldung, Tracker oder externe Abhängigkeiten
-- `pdf/`: Beispiel-PDFs und das Quellenverzeichnis
+- `pdf/`: Beispiel-PDFs, Quellenverzeichnis, Elternbrief und Kurzanleitung
 
 ## Themen
 
